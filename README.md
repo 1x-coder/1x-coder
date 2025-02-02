@@ -1,7 +1,7 @@
 <h2 align="center">⚒️ Programming Languages </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,javascript" />
 </div>
 <br/>
 
