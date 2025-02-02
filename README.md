@@ -15,6 +15,6 @@
      <img src="https://skillicons.dev/icons?i=appwrite,atom,aws,bitbucket,cypress,codepen,nuxtjs,opencv,p5js,pinia,pnpm,postgres,postman,powershell,prisma"/><br>
     <img src="https://skillicons.dev/icons?i=prisma,pug,pycharm,qt,rabbitmq,redis,remix,redux,replit,rollupjs,sass,sqlite,styledcomponents,sublime,supabase"/><br>
     <img src="https://skillicons.dev/icons?i=svg,tailwind,tauri,threejs,ts,ubuntu,vercel,vim,vite,visualstudio,vitest,vscode,vscodium,vue,vuetify,"/><br>
+      <img src="https://skillicons.dev/icons?i=webstorm,webpack,wordpress,yarn"/><br>
 </div>
 <br/>
-
