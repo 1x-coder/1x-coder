@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,angular,astro,babel,bun,d3,deno,discordjs,django" />
         <img src="https://skillicons.dev/icons?i=elasticsearch,dynamodb,docker,eclipse,electron,emotion,express,fastapi,figma,firebase,flask,flutter,gatsby,gcp" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,gitlab,graphql,heroku,htmx,jest,jquery,kafka,kubernetes,laravel,latex,less,linux,md,mongodb,mysql" /><br>
 </div>
 <br/>
 
