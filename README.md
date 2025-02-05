@@ -9,13 +9,14 @@
 
 
 <h2 align="center">⚒️ Programming Languages </h2>
+<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,dart,r,ruby,php,c,cpp" />
 </div>
-
+<br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+<br>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind,angular,astro,babel,bun,d3,deno,discordjs,django,svelte" />
