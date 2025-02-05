@@ -31,15 +31,4 @@
 <br/>
 
 
-
-
-
-
-
-
-
-
-
-
-<div align="center"> <br> <a href="https://github.com/1x-coder"> <p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1x-coder&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></p> </a> <a href="https://github.com/1x-coder/"> <p><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1x-coder&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></p> </a> </div>
-<!-- GIF logo --> <div align="center"> <br> <a href="https://github.com/1x-coder"> <img src="https://media.giphy.com/media/n6MJmhzb5cpKggGDTK/giphy.gif" alt="" width="200" height="100" border="0"> </a> <br> <br> </div>
+<div align="center"> <br> <a href="https://github.com/1x-coder"> <img src="https://media.giphy.com/media/n6MJmhzb5cpKggGDTK/giphy.gif" alt="" width="200" height="100" border="0"> </a> <br> <br> </div>
