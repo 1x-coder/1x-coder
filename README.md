@@ -33,13 +33,4 @@
 
 <div align="center"> <br> <a href="https://github.com/1x-coder"> <img src="https://media.giphy.com/media/n6MJmhzb5cpKggGDTK/giphy.gif" alt="" width="200" height="100" border="0"> </a> <br> <br> </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1x-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1x-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1x-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=1x-coder&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
