@@ -48,19 +48,7 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-<a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-<br/>
 
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite&amp;langs_count=10&amp;exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&amp;theme=dracula">
-
-<a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
