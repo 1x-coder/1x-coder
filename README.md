@@ -34,8 +34,6 @@
 <div align="center"> <br> <a href="https://github.com/1x-coder"> <img src="https://media.giphy.com/media/n6MJmhzb5cpKggGDTK/giphy.gif" alt="" width="200" height="100" border="0"> </a> <br> <br> </div>
 
 
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 
 
