@@ -59,8 +59,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&amp;theme=dracula">
 <img src="https://metrics.lecoq.io/KasRoudra?template=classic&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=Asia%2FDhaka">	
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&amp;theme=onedark&amp;title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 <br/>
 
