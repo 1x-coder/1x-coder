@@ -77,6 +77,30 @@
 
 
 
-
-
+<table><thead><tr><th>Name</th><th>Description</th></tr></thead><tbody><tr><td><em><a href="https://github.com/KasRoudra/repository-readme-generator">Repository Readme Generator</a></em></td><td>Generate a beautiful Readme.md for your repository.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/pyphisher">PyPhisher</a></em></td><td>Ultimate phishing tool in python with 64 website templates.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/YT-Downloader">YT-Downloader</a></em></td><td>Download youtube audio or videos from command line.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/MusPlayer">MusPlayer</a></em></td><td>Play music in termux by mpv.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/messengerdesktop">Messenger-Desktop</a></em></td><td>Messenger in desktop mode for easy file sharing.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/k-fuscator">K-Fuscator</a></em></td><td>Encrypt or decrypt shell script and compile python scripts</td></tr><tr><td><em><a href="https://github.com/KasRoudra/CamHacker">CamHacker</a></em></td><td>Hack anyone’s camera with a phishing link.</td></tr><tr><td><em><a href="https://github.com/KasRoudra/Local2Internet">Local2Internet</a></em></td><td>Expose locally hosted website into all over internet.</td></tr></tbody></table>
+<h4 align="center">All of these are open source!</h4>
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite&amp;langs_count=10&amp;exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">	
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&amp;theme=dracula">
+<img src="https://metrics.lecoq.io/KasRoudra?template=classic&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=Asia%2FDhaka">	
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&amp;theme=onedark&amp;title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+<h3 id="ive-little-contribution-in">I’ve little contribution in:</h3>
+<p><a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/rajkumardusad/Tool-X">Tool-X  <img src="https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio  <img src="https://img.shields.io/github/stars/ashutosh1919/masterPortfolio.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/rajkumardusad/onex">Onex  <img src="https://img.shields.io/github/stars/rajkumardusad/onex.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<p><a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&amp;label=Star&amp;maxAge=2592000"> </a></p>
+<h3 id="contact-me">Contact me:</h3>
+<p><a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&amp;logo=github"></a></p>
+<p><a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&amp;logo=facebook"></a></p>
+<p><a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&amp;logo=messenger"></a></p>
+<p><a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&amp;logo=gmail"></a></p>
+<hr>
+<p>Credit: <a href="https://github.com/KasRoudra">KasRoudra</a></p>
+<p>Last Edited on: 12/12/2021</p> 
 
