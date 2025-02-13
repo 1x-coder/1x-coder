@@ -31,6 +31,14 @@
 <br/>
 
 
+<p align="center">
+	<a href="https://github.com/1x-coder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/1x-coder" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abdullah3333/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/1x.coder/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/1x.coder/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:1xcoder@proton.me" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p> 
 <div align="center"> <br> <a href="https://github.com/1x-coder"> <img src="https://media.giphy.com/media/n6MJmhzb5cpKggGDTK/giphy.gif" alt="" width="200" height="100" border="0"> </a> <br> <br> </div>
 
 <div align="center">
