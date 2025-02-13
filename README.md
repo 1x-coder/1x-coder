@@ -43,8 +43,7 @@
 	<a href="https://www.facebook.com/1x.coder/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/1x.coder/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:1xcoder@proton.me" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="mailto:1xcoder@proton.me" target="_blank"><img src="https://github.com/user-attachments/assets/073324d7-6fd4-4bf2-ae87-157c27f32932" alt="Gmail"/></a>
-	()
+
 
 </p> 
 <br/>
