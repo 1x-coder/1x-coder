@@ -6,17 +6,21 @@
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
+🚀 Fullstack Developer | Web3 Explorer | Cloud Enthusiast
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+I am a Abdullah Ramzan passionate Fullstack Developer currently diving deep into the Web3 space, exploring decentralized technologies and blockchain innovations. My expertise extends to Google Cloud and AWS, where I focus on scalable cloud solutions.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+💻 Tech Stack:
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;  I'm a Fullstack Developer, currently exploring Web3 Space <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring Google Cloud & Microsoft Azure <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;  Always ready to collaborate for Dev Experiments <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;  Former Project Lead Intern at GirlScript Foundation<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
-- &nbsp;&nbsp; :boom: You can visit [MY Website](https://1xcoder.vercel.app/).
+Backend: Python, Node.js
+Frontend: React, Next.js
+Mobile Development: Flutter, React Native
+Cloud & DevOps: Google Cloud, AWS
+🔥 Always open to collaborating on innovative development experiments and pushing the boundaries of technology.
+
+💼 Former Project Lead Intern at GirlScript Foundation
+🚀 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
+
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
