@@ -20,8 +20,6 @@ Cloud & DevOps: Google Cloud, AWS
 
 💼 Former Project Lead Intern at GirlScript Foundation
 🚀 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
-
-
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 <br/>
