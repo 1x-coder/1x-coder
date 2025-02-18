@@ -6,20 +6,11 @@
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
-🚀 Fullstack Developer | Web3 Explorer | Cloud Enthusiast
+Hey There! i'm Abdullah Ramzan, a Full Stack Developer 👨‍💻
 
-I am a Abdullah Ramzan passionate Fullstack Developer currently diving deep into the Web3 space, exploring decentralized technologies and blockchain innovations. My expertise extends to Google Cloud and AWS, where I focus on scalable cloud solutions.
+🌟 Passionate about leveraging technology to drive innovation and solve complex challenges. Experienced in web development, AI, and machine learning. Currently working on exciting projects to push the boundaries of what's possible in technology.
 
-💻 Tech Stack:
-
-Backend: Python, Node.js
-Frontend: React, Next.js
-Mobile Development: Flutter, React Native
-Cloud & DevOps: Google Cloud, AWS
-🔥 Always open to collaborating on innovative development experiments and pushing the boundaries of technology.
-
-💼 Former Project Lead Intern at GirlScript Foundation
-🚀 Life Hack: "Explore 🔥 and Explode 💣 with knowledge."
+🚀 Seeking new opportunities and collaborations to continue growing and making a positive impact. Follow me for more updates on my journey! 🤗
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 <br/>
